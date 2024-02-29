@@ -9,4 +9,4 @@
 ##### Purpose :
     API is used to access current weather data for any location
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/api/javascript/weather).
+#### Dear Students, Check out the live app [here](https://priyanka23-brs.github.io/Weather-API/).
